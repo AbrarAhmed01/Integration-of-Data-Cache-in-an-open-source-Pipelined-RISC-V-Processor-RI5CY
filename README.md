@@ -1,1 +1,1 @@
-# Integration of Data Cache in an open source Pipelined RISC-V Processor RI5CY
+# Integration of Data Cache in a Pipelined RISC-V Processor RI5CY
