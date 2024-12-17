@@ -15,10 +15,8 @@ This project focuses on designing and integrating a parameterized, high-performa
 5. [Data Cache Design and Implementation](#data-cache-design-and-implementation)  
 6. [Simulation and Testing](#simulation-and-testing)  
 7. [Performance Analysis](#performance-analysis)  
-8. [Challenges and Solutions](#challenges-and-solutions)  
-9. [Conclusion](#conclusion)  
-10. [References](#references)  
-11. [Appendices](#appendices)  
+8. [Conclusion](#conclusion)  
+9. [References](#references)  
 
 ---
 
@@ -99,15 +97,5 @@ This project successfully integrated a 32 KB data cache into the RI5CY core, sig
 ## **References**  
 - RI5CY GitHub Repository: [RI5CY Core](https://github.com/pulp-platform/riscv)  
 - Technical Manuals and Documentation on RISC-V ISA.  
-
----
-
-## **Appendices**  
-1. **Code Snippets**:  
-   - Example testbench code.  
-   - LRU and Cache Controller FSM designs.  
-
-2. **Simulation Outputs**:  
-   - Screenshot of successful integration and test results.  
 
 ---
